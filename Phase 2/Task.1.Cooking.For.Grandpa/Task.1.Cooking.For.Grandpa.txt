@@ -1,0 +1,19 @@
+Project INDY Phase 2 Task 1 - Cooking for Grandpa
+
+There are references throughout my Dying Declaration :
+
+https://github.com/jeffohrt
+
+to my having helped look after my Grandfather for 4 months in 2015.
+
+There are references throughout my Dying Declaration - to my Uncle Dennis and I cooking for him every meal of every day.  Dennis handled the main meals and dishes - I handled the side dishes, baked goods and desserts.
+
+The initial recipes were re-configured and experimented on to meet my Grandfather's dietary requirements - absolutely no salt. 0 sodium - of anything - anywhere.  Grandpa had 1/3 of a kidney and it was a miracle he wasn't on dialysis.
+
+The cookbook has grown leaps and bounds beyond that since 2015.
+
+It's been in every format you can imagine.
+
+For simplicity - it's back to text files - one per recipe.
+
+Folders are like recipe boxes from ages past.
